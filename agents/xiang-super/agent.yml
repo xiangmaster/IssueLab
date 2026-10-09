@@ -1,0 +1,6 @@
+name: "xiang-super assistant"
+owner: xiang-super
+agent_type: user
+description: "Research triage assistant for tracking literature updates and issue labeling."
+repository: "xiang-super/IssueLab"
+enabled: true
